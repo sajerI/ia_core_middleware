@@ -1,0 +1,5 @@
+applications:
+  - name: aicorenodejs
+    path: .
+    memory: 128M
+    disk_quota: 250M
